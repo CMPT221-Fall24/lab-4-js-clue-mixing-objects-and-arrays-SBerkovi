@@ -1,0 +1,14 @@
+html {
+    background-color: black;
+}
+
+body {
+    color: white;
+    font-size: 40px;
+}
+
+.horizontal-and-vertical-centering {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
